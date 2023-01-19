@@ -1,0 +1,25 @@
+#world {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: black;
+}
+
+.snake {
+    background-color: red;
+}
+
+.food {
+   background-color: green;
+    width: 20px;
+    height: 20px;
+}
+
+.excel {
+    width: 20px;
+    height: 20px;
+}
+
+.head {
+    background-color: blue;
+}
